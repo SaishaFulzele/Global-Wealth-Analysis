@@ -35,12 +35,12 @@ to determine where individuals can maximize disposable income and long-term weal
 ---
 
 ## ⚙️ Features
-- 📊 Opportunity Score Model
-- 🌎 Country Comparison Engine
-- 📉 Scenario Analysis (Optimistic, Base, Pessimistic)
-- 📈 Wealth Simulation
-- 🔥 Visualizations (Heatmaps, Scatter Plots, Growth Curves)
-- 🌐 Integrated real-world economic data (World Bank)
+-  Opportunity Score Model
+-  Country Comparison Engine
+-  Scenario Analysis (Optimistic, Base, Pessimistic)
+-  Wealth Simulation
+-  Visualizations (Heatmaps, Scatter Plots, Growth Curves)
+-  Integrated real-world economic data (World Bank)
 ---
 ## 📊 Sample Output
 
@@ -80,12 +80,12 @@ Choosing the right country is not just about salary — it's about balancing inc
 Scenario-based analysis provides a more realistic view of future financial outcomes.
 
 ---
-👉 Wealth is not determined by income alone — but by the system you operate in.
+ Wealth is not determined by income alone — but by the system you operate in.
 ---
 ---
 
 
-## 📂 Project Structure
+##  Project Structure
 Global-Wealth-Analysis/
 │
 ├── global_wealth_analysis.ipynb
@@ -94,7 +94,7 @@ Global-Wealth-Analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Open the notebook
 2. Click **Run All**
 3. View results and insights
@@ -102,7 +102,7 @@ Global-Wealth-Analysis/
 
 ---
 
-## 📊 Tools Used
+##  Tools Used
 - Python
 - Pandas
 - Matplotlib / Seaborn
@@ -110,5 +110,5 @@ Global-Wealth-Analysis/
 
 ---
 
-## ⭐ Author
+##  Author
 Saisha Fulzele
