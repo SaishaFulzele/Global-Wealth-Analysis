@@ -59,7 +59,7 @@ Global-Wealth-Analysis/
 ---
 ## 📊 Sample Output
 
-![Heatmap](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20115814.png?raw=true)
+![Heatmap](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20120946.png?raw=true)
 ![Quadrant Map](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20115927.png?raw=true)
 ![Scenario Analysis](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20120004.png?raw=true)
 ---
