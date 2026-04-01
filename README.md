@@ -57,7 +57,7 @@ Global-Wealth-Analysis/
 3. View results and insights
 
 ---
-
+https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20115814.png?raw=true
 ## 📊 Tools Used
 - Python
 - Pandas
