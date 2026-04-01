@@ -13,6 +13,10 @@ This project solves that problem by combining these variables into a data-driven
 
 Using real-world data and scenario simulations (optimistic, base, pessimistic), this project provides a more realistic view of global financial opportunities.
 
+---
+## 💡 Key Highlight
+
+Built a scenario-based financial simulation model across 30 countries to evaluate global wealth opportunities under different economic conditions.
 
 ---
 
