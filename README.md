@@ -39,7 +39,7 @@ to determine where individuals can maximize disposable income and long-term weal
 - 📉 Scenario Analysis (Optimistic, Base, Pessimistic)
 - 📈 Wealth Simulation
 - 🔥 Visualizations (Heatmaps, Scatter Plots, Growth Curves)
-
+- 🌐 Integrated real-world economic data (World Bank)
 ---
 
 ## 🧠 Key Insights
