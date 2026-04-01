@@ -2,7 +2,7 @@
 ## A Global Wealth Opportunity & Income Simulation Engine
 ---
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 
 Choosing the right country can significantly impact long-term wealth accumulation.
 
@@ -10,7 +10,7 @@ However, most people make this decision based only on salary — ignoring critic
 
 This project solves that problem by combining these variables into a data-driven model that evaluates:
 
-👉 Where can you actually build wealth?
+ Where can you actually build wealth?
 
 Using real-world data and scenario simulations (optimistic, base, pessimistic), this project provides a more realistic view of global financial opportunities.
 
