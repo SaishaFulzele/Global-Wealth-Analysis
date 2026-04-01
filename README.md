@@ -41,6 +41,13 @@ to determine where individuals can maximize disposable income and long-term weal
 - 🔥 Visualizations (Heatmaps, Scatter Plots, Growth Curves)
 - 🌐 Integrated real-world economic data (World Bank)
 ---
+## 📊 Sample Output
+
+![Heatmap](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20120946.png?raw=true)
+![Quadrant Map](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20121023.png?raw=true)
+![Scenario Analysis](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20121045.png?raw=true)
+
+---
 
 ## 🧠 Key Insights
 
@@ -76,12 +83,7 @@ Global-Wealth-Analysis/
 2. Click **Run All**
 3. View results and insights
 
----
-## 📊 Sample Output
 
-![Heatmap](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20120946.png?raw=true)
-![Quadrant Map](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20121023.png?raw=true)
-![Scenario Analysis](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20121045.png?raw=true)
 ---
 
 ## 📊 Tools Used
