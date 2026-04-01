@@ -18,6 +18,7 @@ Using real-world data and scenario simulations (optimistic, base, pessimistic), 
 ## 💡 Key Highlight
 
 Built a scenario-based financial simulation model across 30 countries to evaluate global wealth opportunities under different economic conditions.
+- Custom disposable income model integrating salary, tax, rent, and cost index
 
 ---
 
