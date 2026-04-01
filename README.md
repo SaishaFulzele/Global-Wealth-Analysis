@@ -80,9 +80,9 @@ Choosing the right country is not just about salary — it's about balancing inc
 Scenario-based analysis provides a more realistic view of future financial outcomes.
 
 ---
-
 👉 Wealth is not determined by income alone — but by the system you operate in.
 ---
+
 
 ## 📂 Project Structure
 Global-Wealth-Analysis/
