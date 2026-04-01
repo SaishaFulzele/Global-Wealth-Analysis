@@ -1,4 +1,5 @@
-# 🌍 Global Wealth Opportunity & Income Simulation Engine
+# 🌍 Where Should You Live to Build Wealth?  
+## A Global Wealth Opportunity & Income Simulation Engine
 ---
 
 ## 🚀 Why This Project Matters
@@ -51,14 +52,25 @@ to determine where individuals can maximize disposable income and long-term weal
 
 ## 🧠 Key Insights
 
-### 💰 Wealth Leaders
-Luxembourg, Singapore, and Ireland consistently rank at the top across all scenarios.
+### 💰 Insight 1: Wealth Leaders Show Strong Stability
 
-### ⚠️ Risk Impact
-Disposable income drops significantly under pessimistic scenarios, even in strong economies.
+Top-performing countries such as Luxembourg, Singapore, and Ireland consistently rank high across all scenarios.
 
-### ⚖️ High Risk–High Reward Economies
-Countries like Australia and UAE show strong upside but higher volatility depending on economic conditions.
+This indicates strong income stability and resilient economic structures that support long-term wealth accumulation.
+
+
+### ⚠️ Insight 2: Downside Risk Significantly Impacts Income
+
+Under pessimistic conditions, disposable income drops sharply across all countries, including top performers.
+
+This highlights the sensitivity of wealth outcomes to economic shifts and reinforces the importance of risk-aware decision making.
+
+
+### ⚖️ Insight 3: High Risk–High Reward Economies
+
+Countries like Australia and the UAE exhibit strong gains in optimistic scenarios but notable declines under pessimistic conditions.
+
+This suggests a high-risk, high-reward dynamic, where potential for wealth growth comes with increased volatility and uncertainty.
 
 ---
 
@@ -67,6 +79,9 @@ Choosing the right country is not just about salary — it's about balancing inc
 
 Scenario-based analysis provides a more realistic view of future financial outcomes.
 
+---
+
+👉 Wealth is not determined by income alone — but by the system you operate in.
 ---
 
 ## 📂 Project Structure
