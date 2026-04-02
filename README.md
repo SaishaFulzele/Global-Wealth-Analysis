@@ -1,5 +1,6 @@
 # 🌍 Where Should You Live to Build Wealth?  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/SaishaFulzele/Global-Wealth-Analysis/blob/main/Global_Wealth_Analysis.ipynb)(https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/SaishaFulzele/Global-Wealth-Analysis/blob/main/Global_Wealth_Analysis.ipynb)
 ## A Global Wealth Opportunity & Income Simulation Engine
 ---
