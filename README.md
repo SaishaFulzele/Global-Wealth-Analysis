@@ -46,7 +46,7 @@ to determine where individuals can maximize disposable income and long-term weal
 ---
 ## 📊 Sample Output
 
-![Heatmap](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20120946.png?raw=true)
+![Heatmap](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Heatmap.png?raw=true)
 ![Quadrant Map](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20121023.png?raw=true)
 ![Scenario Analysis](https://github.com/SaishaFulzele/Global-Wealth-Analysis/blob/main/Screenshot%202026-04-01%20121045.png?raw=true)
 
